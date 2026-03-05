@@ -57,7 +57,7 @@ python network_analyzer.py
 
 ## 画面構成
 
-`![Test Image 1](image/GUI.png)`
+![Test Image 1](image/GUI.png)
 ---
 
 ## ツールバー操作
