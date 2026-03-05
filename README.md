@@ -50,7 +50,7 @@ pip install matplotlib
 ## 起動方法
 
 ```bash
-python network_analyzer.py
+python3 network_analyzer.py
 ```
 
 ---
